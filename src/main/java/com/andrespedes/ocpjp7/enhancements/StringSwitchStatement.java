@@ -40,6 +40,9 @@ public class StringSwitchStatement {
     public void testSwitchWithFor(String[] arrayOfStrings){
         for (String s : arrayOfStrings) {
             switch (s){
+                default:
+                    System.out.println("Got c");
+                    break;
                 case "a":
                     System.out.println("Got a");
                     break;
