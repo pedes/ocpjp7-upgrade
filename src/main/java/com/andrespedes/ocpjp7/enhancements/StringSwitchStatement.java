@@ -1,7 +1,7 @@
 package com.andrespedes.ocpjp7.enhancements;
 
 /**
- * Created by andresc on 21/06/2017.
+ * Created by @pedes on 21/06/2017.
  *
  * Test the enhancements for switch conditionals using Strings.
  */
